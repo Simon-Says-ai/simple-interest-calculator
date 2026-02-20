@@ -1,0 +1,28 @@
+$ curl https://api.github.com/repos/Simon-Says-ai/simple-interest-calculator/pulls/1
+
+{
+  "url": "https://api.github.com/repos/Simon-Says-ai/simple-interest-calculator/pulls/1",
+  "id": 987654321,
+  "state": "open",
+  "title": "Revert bug-fix-typo commit",
+  "head": {
+    "label": "Simon-Says-ai:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "repo": {
+      "name": "simple-interest-calculator",
+      "full_name": "Simon-Says-ai/simple-interest-calculator",
+      "private": false,
+      "fork": true,
+      "parent": {
+        "name": "mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  },
+  "base": {
+    "label": "Simon-Says-ai:main",
+    "ref": "main"
+  },
+  "merged": false,
+  "mergeable": true
+}
