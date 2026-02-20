@@ -1,0 +1,9 @@
+$ git branch
+  bug-fix-revert
+  bug-fix-typo
+* main
+
+$ git branch -v
+  bug-fix-revert 4a9d7e2 Revert "Add bug-fix-typo"
+  bug-fix-typo   8f2b3c1 Fix typo in simple-interest.sh
+* main           a1b2c3d Finalize documentation and scripts
