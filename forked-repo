@@ -1,0 +1,11 @@
+{
+  "name": "simple-interest-calculator",
+  "full_name": "Simon-Says-ai/simple-interest-calculator",
+  "private": false,
+  "fork": true,
+  "url": "https://api.github.com/repos/Simon-Says-ai/simple-interest-calculator",
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
